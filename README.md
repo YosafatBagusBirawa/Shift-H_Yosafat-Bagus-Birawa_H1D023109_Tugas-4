@@ -1,5 +1,7 @@
-tampilan awal
-![Tampilan Aplikasi](![Tampilan Gambar](ss%20prolog/gambar%201.jpg)
+## 📸 Tampilan Aplikasi
 
-hasil
-![Hasil](![Tampilan Gambar](ss%20prolog/gambar%202.jpg)
+### 🖥️ Tampilan Awal
+![Tampilan Awal](ss%20prolog/gambar%201.jpg)
+
+### ✅ Hasil
+![Hasil](ss%20prolog/gambar%202.jpg)
